@@ -1,10 +1,10 @@
-👋 Hi, I'm Solomon Tesfaye
+👋 Hey there, I'm Solomon Tesfaye
 
-💻 Full-Stack Web Developer | 🤖 AI/ML Enthusiast
+💻 Full-Stack Web Developer | 🤖 AI & Machine Learning Engineer
 
-Currently, I'm a 4th-year Software Engineering student at Jimma University and working with the Ethiopian Artificial Intelligence Institute, where I contribute to AI-driven solutions using frameworks 
+I’m a final-year Software Engineering student at Jimma University and currently collaborating with the Ethiopian Artificial Intelligence Institute, where I focus on developing machine learning models and AI-powered applications.
 
-I enjoy building real-world projects — from modern, scalable web applications to intelligent machine learning systems — and love collaborating on impactful solutions for my community and beyond.
+My passion lies in turning ideas into practical solutions — whether that means building fast, scalable web platforms or crafting intelligent systems that solve real-world problems.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AmSaved1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am_saved1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/solomon-tesfaye-7513a230b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@self_debater) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SolomonTes23558) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SolyTesfa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solytesfa32@gmail.com) 
 
